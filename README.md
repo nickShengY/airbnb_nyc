@@ -1,6 +1,7 @@
 # Interactive Data Analysis Dashboard for Airbnb in NYC in 2023
 
 An interactive dashboard for visualizing Airbnb's pricing and popularity trends across various neighborhoods in New York City. Built with Tableau.
+**[DashBoard Live](https://public.tableau.com/shared/KF5F6FZ6Y?:display_count=n&:origin=viz_share_link)**
 
 ![Dashboard Preview](Dashboard.png)
 
@@ -16,7 +17,7 @@ An interactive dashboard for visualizing Airbnb's pricing and popularity trends 
 ## Prerequisites
 
 - Tableau Desktop or Tableau Public
-- Source Data from Airbnb (preferably in CSV or Excel format)
+- Source Data from Airbnb (preferably in CSV or Excel format), you can download the data from the repo, but you need to cite it properly.  
 
 ## Getting Started
 
