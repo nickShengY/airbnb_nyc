@@ -21,9 +21,6 @@ An interactive dashboard for visualizing Airbnb's pricing and popularity trends 
 ## Getting Started
 
 - 1, Clone this repository:
-```bash
-git clone [your-repository-link]
-```
 
 - 2, Open the .twbx file in Tableau Desktop or Tableau Public.
 
