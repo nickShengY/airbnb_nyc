@@ -21,7 +21,7 @@ An interactive dashboard for visualizing Airbnb's pricing and popularity trends 
 - Tableau Desktop or Tableau Public
 - Source Data from Airbnb (preferably in CSV or Excel format), you can download the data from the repo, but you need to cite it properly.  
 
-## Getting Started
+## Replicate this project:
 
 - 1, Clone this repository:
 
